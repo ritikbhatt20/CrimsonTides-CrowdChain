@@ -1,11 +1,11 @@
 {
-  "name": "cryptoroots",
+  "name": "Crowdchain",
   "author": {
-    "name": "Akhilesh Thite",
-    "email": "hello@cryptoroots.xyz"
+    "name": "Crimson Tides",
+    "email": "hello@crimsontides.com"
   },
   "version": "0.1.0",
-  "description": "cryptoroots.xyz is a platform that allows users to plant trees and earn climate change NFT badges.",
+  "description": "Crowdchain is a decentralized crowdfunding platform that allows anyone to create a campaign and raise funds for their cause. Powered by the Ethereum blockchain, Crowdchain is a transparent and secure way to raise funds for your cause.",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.6.6",
