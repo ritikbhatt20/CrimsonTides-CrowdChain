@@ -23,7 +23,8 @@
     "react-spinners": "^0.13.3",
     "react-twitter-embed": "^4.0.4",
     "web3": "^1.7.3",
-    "web3modal": "^1.9.8"
+    "web3modal": "^1.9.8",
+    "dotenv": "^16.3.1"
   },
   "scripts": {
     "start": "env-cmd -f ../.env react-scripts start",
